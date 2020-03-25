@@ -5,7 +5,8 @@
   "repository": "https://github.com/lincolnoliveira/node-conceitos.git",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "mid": "nodemon index-mid.js"
   },
   "dependencies": {
     "express": "^4.17.1"
