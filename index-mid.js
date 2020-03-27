@@ -2,7 +2,7 @@ const express = require('express');
 
 const server = express();
 
-server.use(express.json());
+server.use(express.json()); // para poder entender o body em formato json
 
 // CRUD usando um vetor
 const users = ['dunga', 'zangado', 'soneca']

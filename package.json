@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon index.js",
-    "mid": "nodemon index-mid.js"
+    "mid": "nodemon index-mid.js",
+    "des1": "nodemon desafio1.js"
   },
   "dependencies": {
     "express": "^4.17.1"
